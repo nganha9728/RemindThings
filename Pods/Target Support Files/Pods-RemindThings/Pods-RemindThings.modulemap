@@ -1,0 +1,6 @@
+framework module Pods_RemindThings {
+  umbrella header "Pods-RemindThings-umbrella.h"
+
+  export *
+  module * { export * }
+}
